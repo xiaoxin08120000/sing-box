@@ -9,11 +9,11 @@ import (
 	"net/url"
 	"os"
 
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing/common/bufio"
-	E "github.com/sagernet/sing/common/exceptions"
-	M "github.com/sagernet/sing/common/metadata"
+	C "github.com/xiaoxin08120000/sing-box/constant"
+	"github.com/xiaoxin08120000/sing-box/log"
+	"github.com/xiaoxin08120000/sing/common/bufio"
+	E "github.com/xiaoxin08120000/sing/common/exceptions"
+	M "github.com/xiaoxin08120000/sing/common/metadata"
 
 	"github.com/spf13/cobra"
 )
