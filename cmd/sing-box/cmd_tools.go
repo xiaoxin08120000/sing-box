@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/sagernet/sing-box"
-	E "github.com/sagernet/sing/common/exceptions"
-	N "github.com/sagernet/sing/common/network"
+	E "github.com/xiaoxin08120000/sing/common/exceptions"
+	N "github.com/xiaoxin08120000/sing/common/network"
 
 	"github.com/spf13/cobra"
 )
