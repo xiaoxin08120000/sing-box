@@ -6,13 +6,13 @@ import (
 	"path/filepath"
 	"strings"
 
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
-	"github.com/sagernet/sing/common"
-	E "github.com/sagernet/sing/common/exceptions"
-	"github.com/sagernet/sing/common/json"
-	"github.com/sagernet/sing/common/rw"
+	C "github.com/xiaoxin08120000/sing-box/constant"
+	"github.com/xiaoxin08120000/sing-box/log"
+	"github.com/xiaoxin08120000/sing-box/option"
+	"github.com/xiaoxin08120000/sing/common"
+	E "github.com/xiaoxin08120000/sing/common/exceptions"
+	"github.com/xiaoxin08120000/sing/common/json"
+	"github.com/xiaoxin08120000/sing/common/rw"
 
 	"github.com/spf13/cobra"
 )
