@@ -8,12 +8,12 @@ import (
 	"strconv"
 	"strings"
 
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
-	"github.com/sagernet/sing/common"
-	E "github.com/sagernet/sing/common/exceptions"
-	M "github.com/sagernet/sing/common/metadata"
+	C "github.com/xiaoxin08120000/sing-box/constant"
+	"github.com/xiaoxin08120000/sing-box/log"
+	"github.com/xiaoxin08120000/sing-box/option"
+	"github.com/xiaoxin08120000/sing/common"
+	E "github.com/xiaoxin08120000/sing/common/exceptions"
+	M "github.com/xiaoxin08120000/sing/common/metadata"
 )
 
 type agdguardRuleLine struct {
