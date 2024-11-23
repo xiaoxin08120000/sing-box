@@ -4,12 +4,12 @@ import (
 	"context"
 	"os"
 
-	"github.com/sagernet/sing-box/common/settings"
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	E "github.com/sagernet/sing/common/exceptions"
-	M "github.com/sagernet/sing/common/metadata"
-	"github.com/sagernet/sing/common/ntp"
+	"github.com/xiaoxin08120000/sing-box/common/settings"
+	C "github.com/xiaoxin08120000/sing-box/constant"
+	"github.com/xiaoxin08120000/sing-box/log"
+	E "github.com/xiaoxin08120000/sing/common/exceptions"
+	M "github.com/xiaoxin08120000/sing/common/metadata"
+	"github.com/xiaoxin08120000/sing/common/ntp"
 
 	"github.com/spf13/cobra"
 )
