@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/sagernet/sing-box/common/srs"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing/common/json"
+	"github.com/xiaoxin08120000/sing-box/common/srs"
+	"github.com/xiaoxin08120000/sing-box/log"
+	"github.com/xiaoxin08120000/sing/common/json"
 
 	"github.com/spf13/cobra"
 )
