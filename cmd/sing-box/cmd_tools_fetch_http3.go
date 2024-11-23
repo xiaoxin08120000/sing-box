@@ -7,12 +7,12 @@ import (
 	"crypto/tls"
 	"net/http"
 
-	"github.com/sagernet/quic-go"
-	"github.com/sagernet/quic-go/http3"
-	box "github.com/sagernet/sing-box"
-	"github.com/sagernet/sing/common/bufio"
-	M "github.com/sagernet/sing/common/metadata"
-	N "github.com/sagernet/sing/common/network"
+	"github.com/xiaoxin08120000/quic-go"
+	"github.com/xiaoxin08120000/quic-go/http3"
+	box "github.com/xiaoxin08120000/sing-box"
+	"github.com/xiaoxin08120000/sing/common/bufio"
+	M "github.com/xiaoxin08120000/sing/common/metadata"
+	N "github.com/xiaoxin08120000/sing/common/network"
 )
 
 func initializeHTTP3Client(instance *box.Box) error {
