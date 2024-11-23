@@ -4,11 +4,11 @@ import (
 	"io"
 	"os"
 
-	"github.com/sagernet/sing-box/common/geosite"
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
-	"github.com/sagernet/sing/common/json"
+	"github.com/xiaoxin08120000/sing-box/common/geosite"
+	C "github.com/xiaoxin08120000/sing-box/constant"
+	"github.com/xiaoxin08120000/sing-box/log"
+	"github.com/xiaoxin08120000/sing-box/option"
+	"github.com/xiaoxin08120000/sing/common/json"
 
 	"github.com/spf13/cobra"
 )
