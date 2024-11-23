@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/sagernet/sing-box"
-	"github.com/sagernet/sing-box/experimental/deprecated"
-	"github.com/sagernet/sing-box/include"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing/service"
-	"github.com/sagernet/sing/service/filemanager"
+	"github.com/xiaoxin08120000/sing-box"
+	"github.com/xiaoxin08120000/sing-box/experimental/deprecated"
+	"github.com/xiaoxin08120000/sing-box/include"
+	"github.com/xiaoxin08120000/sing-box/log"
+	"github.com/xiaoxin08120000/sing/service"
+	"github.com/xiaoxin08120000/sing/service/filemanager"
 
 	"github.com/spf13/cobra"
 )
