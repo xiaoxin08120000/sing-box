@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sagernet/sing-box/log"
-	E "github.com/sagernet/sing/common/exceptions"
-	"github.com/sagernet/sing/common/json"
-	"github.com/sagernet/sing/common/json/badjson"
+	"github.com/xiaoxin08120000/sing-box/log"
+	E "github.com/xiaoxin08120000/sing/common/exceptions"
+	"github.com/xiaoxin08120000/sing/common/json"
+	"github.com/xiaoxin08120000/sing/common/json/badjson"
 
 	"github.com/spf13/cobra"
 )
